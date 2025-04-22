@@ -20,7 +20,7 @@ cols = [
 sns.set(style="whitegrid")
 
 # Create a 2-column grid of boxplots (before vs after)
-fig, axes = plt.subplots(len(cols), 2, figsize=(10, 16))
+fig, axes = plt.subplots(len(cols), 2, figsize=(8, 14))
 
 for i, col in enumerate(cols):
     # Before treatment

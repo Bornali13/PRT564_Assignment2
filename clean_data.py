@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load your dataset
-df = pd.read_csv("C:/Users/Asus/OneDrive/Documents/GitHub/PRT564_Assignment2/Final_data_avino_weather_filled.csv")
+df = pd.read_csv("Final_data_avino_weather_filled.csv")
 
 # -----------------------------
 # 🔍 Step 1: Check for missing values

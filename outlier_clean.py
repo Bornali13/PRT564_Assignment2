@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load your dataset
-df = pd.read_csv("C:/Users/Asus/OneDrive/Documents/GitHub/PRT564_Assignment2/Final_data_cleaned.csv")
+df = pd.read_csv("Final_data_cleaned.csv")
 
 # List of numerical columns to apply IQR-based outlier treatment
 columns_to_treat = [

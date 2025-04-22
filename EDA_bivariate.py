@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load cleaned dataset
-df = pd.read_csv("Final_data_cleaned.csv")
+df = pd.read_csv("C:/Users/Asus/OneDrive/Documents/GitHub/PRT564_Assignment2/Final_data_cleaned.csv")
 
 # Set visual style
 sns.set(style="whitegrid")
