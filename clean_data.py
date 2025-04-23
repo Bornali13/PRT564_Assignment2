@@ -1,5 +1,4 @@
 import pandas as pd
-
 # Load your dataset
 df = pd.read_csv("Final_data_avino_weather_filled.csv")
 
